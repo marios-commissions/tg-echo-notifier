@@ -1,0 +1,22 @@
+{
+	"telegram": {
+		"phone": "xxx",
+		"api": {
+			"id": 123,
+			"hash": "xxx"
+		}
+	},
+	"pushover": {
+		"api": "xxx",
+		"user": "xxx"
+	},
+	"users": [
+		"xxx",
+		"xxx"
+	],
+	"debug": true,
+	"errors": {
+		"catch": true,
+		"webhook": "https://discord.com/api/webhooks/xxx/xxx"
+	}
+}
